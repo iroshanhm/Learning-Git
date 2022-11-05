@@ -1,0 +1,32 @@
+
+Admin@DESKTOP-64D1PSK MINGW64 /d/_Dev/DEV_PROJECTS/Learning/Amigoscode/Git/Working Directory (package1)
+$ git push -u
+fatal: The current branch package1 has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin package1
+
+
+Admin@DESKTOP-64D1PSK MINGW64 /d/_Dev/DEV_PROJECTS/Learning/Amigoscode/Git/Working Directory (package1)
+$  git push --set-upstream origin package1
+
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (8/8), 613 bytes | 306.00 KiB/s, done.
+Total 8 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+remote:
+remote: Create a pull request for 'package1' on GitHub by visiting:
+remote:      https://github.com/iroshanhm/Learning-Git/pull/new/package1
+remote:
+To https://github.com/iroshanhm/Learning-Git.git
+ * [new branch]      package1 -> package1
+Branch 'package1' set up to track remote branch 'package1' from 'origin'.
+
+Admin@DESKTOP-64D1PSK MINGW64 /d/_Dev/DEV_PROJECTS/Learning/Amigoscode/Git/Working Directory (package1)
+$
+
+Admin@DESKTOP-64D1PSK MINGW64 /d/_Dev/DEV_PROJECTS/Learning/Amigoscode/Git/Working Directory (package1)
+$
